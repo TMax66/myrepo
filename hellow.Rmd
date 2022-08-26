@@ -1,6 +1,7 @@
 ---
 title: "helloW"
-output: html_document
+author: "TMax"
+output: github_document
 date: "2022-08-26"
 ---
 
